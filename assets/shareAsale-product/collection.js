@@ -73,10 +73,10 @@
     },
     {
         id: 11,
-        img: `<a href="https://shareasale.com/r.cfm?b=1364405&u=3166404&m=89195&urllink=tatrck%2Ecom%2F9z7K3hGCLg&afftrack=" target="_blank" ><img src=".//..//../assets/images/collection-img-bg/Inlovearts.jpg" class="img-size alt=""></a>`,
+        img: `<a href="http://shrsl.com/4ll2a" target="_blank" ><img src=".//..//../assets/images/collection-img-bg/Inlovearts.jpg" class="img-size alt=""></a>`,
         title: `Crafting Collection`,
         body: ` dies, home decor, stamps, holiday, art, bag, Box, DIY, paper, craft, scrapbooking, Stickers, gifts, cards, halloween, christmas, birthday, accessories, new year.`,
-        link: `<a href="https://shareasale.com/r.cfm?b=1364405&u=3166404&m=89195&urllink=tatrck%2Ecom%2F9z7K3hGCLg&afftrack=" class="flex-link a-style"target="_blank">Shop Now  <span><ion-icon name="arrow-forward" aria-hidden="true"></ion-icon></span></a> `
+        link: `<a href="http://shrsl.com/4ll2a" class="flex-link a-style"target="_blank">Shop Now  <span><ion-icon name="arrow-forward" aria-hidden="true"></ion-icon></span></a> `
     },
     {
         id: 12,
