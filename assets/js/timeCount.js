@@ -16,3 +16,8 @@ const interval = () => {
     }, 1000);
 }
 interval()
+
+
+
+
+document.getElementById('date').innerHTML = new Date().getFullYear()
