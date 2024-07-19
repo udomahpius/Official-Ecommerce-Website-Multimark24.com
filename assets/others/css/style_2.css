@@ -874,6 +874,12 @@ h2 {
     }
     
 }
+@media screen  and (max-width:500px){
+    .section-header h1{
+        font-size: 13px !important;
+    }
+    
+}
 
 .product .slick-prev,
 .product .slick-next {
@@ -2031,7 +2037,7 @@ h2 {
 }
 @media screen and (max-width:700px){
     .brand .container-fluid .brand-slider .brand-item{
-        height: 100%;
+        height: 30vh;
         z-index: 1000;
     }
 
