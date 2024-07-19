@@ -5869,6 +5869,13 @@ a.close.disabled {
   overflow: hidden;
 }
 
+@media screen  and (max-width: 500px){
+  .carousel-inner .p-3 a{
+    margin-bottom: 15rem !important;
+    }
+    
+}
+
 .carousel-inner::after {
   display: block;
   clear: both;
