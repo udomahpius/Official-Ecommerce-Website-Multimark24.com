@@ -5871,11 +5871,11 @@ a.close.disabled {
 
 @media screen  and (max-width: 700px){
   .carousel-inner .p-3 a{
-    margin-bottom: 1.2rem !important;
+    margin-bottom: 1.7rem !important;
     }
-    #nav-fix{
+    /* #nav-fix{
       background: #fff !important;
-    }
+    } */
 }
 
 .carousel-inner::after {
