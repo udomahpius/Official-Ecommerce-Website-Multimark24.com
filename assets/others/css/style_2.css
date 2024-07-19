@@ -870,13 +870,13 @@ h2 {
 }
 @media screen  and (max-width:700px){
     .section-header h1{
-        font-size: 13px !important;
+        font-size: 17px !important;
     }
     
 }
 @media screen  and (max-width:500px){
     .section-header h1{
-        font-size: 13px !important;
+        font-size: 15px !important;
     }
     
 }
@@ -2037,7 +2037,7 @@ h2 {
 }
 @media screen and (max-width:700px){
     .brand .container-fluid .brand-slider .brand-item{
-        height: 70vh !important;
+        height: 35vh !important;
         z-index: 1000;
     }
 

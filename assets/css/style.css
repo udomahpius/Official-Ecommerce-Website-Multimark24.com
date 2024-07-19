@@ -5871,7 +5871,7 @@ a.close.disabled {
 
 @media screen  and (max-width: 700px){
   .carousel-inner .p-3 a{
-    margin-bottom: 15rem !important;
+    margin-bottom: 3rem !important;
     }
     
 }
