@@ -2030,7 +2030,7 @@ h2 {
 }
 @media screen and (max-width:700px){
     .brand .container-fluid .brand-slider .brand-item{
-        height: 30vh !important;
+        height: 37vh !important;
         z-index: 1000;
     }
 
