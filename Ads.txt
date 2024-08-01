@@ -1,4 +1,7 @@
 pubfuture.com, 66ab6addf3fba347744d1afb, DIRECT
+
+#Publisher content
+pubfuture.com, 66ab6addf3fba347744d1afb, DIRECT
 152media.com, 152, DIRECT
 152media.info, 152M10, RESELLER
 152media.info, 152M178, RESELLER
@@ -117,7 +120,6 @@ adform.com, 2656, RESELLER, 9f5210a2f0999e32
 adform.com, 2671, RESELLER
 adform.com, 2700, RESELLER, 9f5210a2f0999e32
 adform.com, 2742, RESELLER
-adform.com, 2742, RESELLER
 adform.com, 2795, RESELLER
 adform.com, 2804, RESELLER
 adform.com, 2865, RESELLER
@@ -134,8 +136,6 @@ adform.com, 3119, RESELLER, 9f5210a2f0999e32
 adform.com, 3126, RESELLER
 adform.com, 557, DIRECT, 9f5210a2f0999e32
 adform.com, 582, RESELLER, 9f5210a2f0999e32
-adform.com, 768, RESELLER
-adform.com, 768, RESELLER
 adform.com, 768, RESELLER
 adform.com, 811, RESELLER
 adform.com,1819,RESELLER,9f5210a2f0999e32
@@ -284,7 +284,6 @@ appnexus.com, 12290, RESELLER
 appnexus.com, 12290, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12366, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12475, RESELLER, f5ab79cb980f11d1
-appnexus.com, 12475, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12501, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
@@ -308,13 +307,11 @@ appnexus.com, 15799, DIRECT, f5ab79cb980f11d1
 appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
 appnexus.com, 1868, RESELLER
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
-appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 appnexus.com, 2579, RESELLER
 appnexus.com, 2725, RESELLER, f5ab79cb980f11d1
 appnexus.com, 2928, DIRECT
 appnexus.com, 2928, RESELLER
 appnexus.com, 3153, DIRECT, f5ab79cb980f11d1
-appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3364, RESELLER
 appnexus.com, 3457, DIRECT
@@ -445,7 +442,6 @@ contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
 contextweb.com, 560138, RESELLER, 89ff185a4c4e857c
 contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
 contextweb.com, 560382, RESELLER
-contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
 contextweb.com, 560489, RESELLER, 89ff185a4c4e857c
 contextweb.com, 560520, RESELLER
 contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
@@ -690,7 +686,6 @@ google.com, pub-4573231550355221, RESELLER, f08c47fec0942fa0
 google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
 google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0
 google.com, pub-4686405784285870, DIRECT, f08c47fec0942fa0
-google.com, pub-4686405784285870, DIRECT, f08c47fec0942fa0
 google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
 google.com, pub-5041886492880162, RESELLER, f08c47fec0942fa0
@@ -771,7 +766,6 @@ improvedigital.com, 1577, RESELLER
 improvedigital.com, 1581, RESELLER
 improvedigital.com, 1628, RESELLER
 improvedigital.com, 1699, RESELLER
-improvedigital.com, 1699, RESELLER
 improvedigital.com, 1738, RESELLER
 improvedigital.com, 1790, RESELLER
 improvedigital.com, 1863, RESELLER
@@ -787,7 +781,6 @@ improvedigital.com, 2174, RESELLER
 improvedigital.com, 2181, RESELLER
 improvedigital.com, 2196, RESELLER
 improvedigital.com, 2218, RESELLER
-improvedigital.com, 2276, RESELLER
 improvedigital.com, 2276, RESELLER
 improvedigital.com, 2298, RESELLER
 improvedigital.com, 2316, RESELLER
@@ -1215,8 +1208,6 @@ pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155967, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156030, RESELLER, 5d62403b186f2ace
-pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
-pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156084, RESELLER, 5d62403b186f2ace
